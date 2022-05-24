@@ -1,0 +1,15 @@
+the steps which are required to add files are
+new repository  and create it  
+then make a folder in the desktop  
+open vs code add the terminal bash 
+git init to initialized the file 
+create a file in the folder 
+if you want to check the status then type " git status "
+it will be in the red color 
+now tyoe  git add .
+again check the status now it will be green in color
+git commit -m"message"
+it iwll tell insertion is com[lere or +sign ]
+now to connect the github to vs code 
+copy the code git remote origin http\\djsfhkjashdkflhalksdjhflka form the github
+at last git push origin master
